@@ -22,3 +22,8 @@ Its only applicable for those countries which are having low temperature.
 It can be implemented by having both Heater and AC.
 # Threats
 Not suitable for average or high temperature places.
+
+
+# badges
+https://www.code-inspector.com/project/28783/score/svg
+https://www.code-inspector.com/project/28783/status/svg
