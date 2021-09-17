@@ -25,4 +25,4 @@ Not suitable for average or high temperature places.
 
 # BADGES
 ![CODE QUALITY SCORE](https://www.code-inspector.com/project/28783/score/svg)
-
+![CODE GRADE](https://www.code-inspector.com/project/28783/status/svg)
