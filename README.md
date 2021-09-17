@@ -24,5 +24,4 @@ It can be implemented by having both Heater and AC.
 Not suitable for average or high temperature places.
 
 
-https://www.code-inspector.com/project/28783/score/svg
-https://img.shields.io/codacy/grade/https://github.com/suhas-k1921/embedded-c-case-study/commit/96b8033b93e862c62d69c4cb4c020ceea4c939c4
+
