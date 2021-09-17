@@ -26,4 +26,4 @@ Not suitable for average or high temperature places.
 # BADGES
 ![CODE QUALITY SCORE](https://www.code-inspector.com/project/28783/score/svg)
 ![CODE GRADE](https://www.code-inspector.com/project/28783/status/svg)
-![](https://img.shields.io/codacy/grade/https://github.com/suhas-k1921/embedded-c-case-study/commit/96b8033b93e862c62d69c4cb4c020ceea4c939c4)
+![BUILD](https://img.shields.io/codacy/grade/https://github.com/suhas-k1921/embedded-c-case-study/commit/96b8033b93e862c62d69c4cb4c020ceea4c939c4)
