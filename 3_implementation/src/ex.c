@@ -32,7 +32,7 @@ void loop() {
 
 void delay(uint32_t ms) {
     ms *= 3360;
-    while(ms--) {
+    while(ms--) { 
         __NOP();
     }
 }
